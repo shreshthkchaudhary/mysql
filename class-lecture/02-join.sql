@@ -34,3 +34,4 @@
 -- SELECT  student.Student_id, student.name, department.Dept_name , Dept_ID from student full join department;
 -- SELECT  student.Student_id, student.name, department.Dept_name , Dept_ID from student cross join department;
 -- SELECT  student.Student_id, student.name, department.Dept_name , Dept_ID from student join department on student.Dept_ID= department.Department_id where Student_id<30;
+
